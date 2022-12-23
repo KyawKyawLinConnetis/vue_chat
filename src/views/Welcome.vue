@@ -1,6 +1,6 @@
 <template>
   <div class="welcome">
-    <h1>Welcome dev</h1>
+    <h1>Welcome dev feature test</h1>
     <div v-if=false>
         <SignUp></SignUp>
         <p>Already member? <span>Login Account?</span></p>
